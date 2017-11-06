@@ -9,7 +9,7 @@
 
 | 模块 | 功能 | 负责人/开发者 | 完成时间 | 备注 |
 | --- | --- | --- | --- | --- |
-| **登录** |  |  |  |  |
+| **登录** |  | **师峰** |  |  |
 | **工作台** |  | **刘书鹏** |  |  |
 |  | 首页 |  |  |  |
 |  | 待处理事件列表 |  |  |  |
@@ -33,20 +33,25 @@
 | 图标 | react-native-vector-icons |  |
 | 图表 | native-echarts |  |
 | Props验证 | prop-types |  |
-| RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) ||
+| RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) |  |
+| 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) |  |
 
 ## 组件开发
 | 组件名 | 开发者 | 备注 |
 | --- | --- | --- |
 | badge | 师峰 |  |
 | button | 刘书鹏 |  |
+| checkbox | 师峰 |  |
 | flat-list | 师峰 |  |
 | loading-spinner | 师峰 |  |
+| modals | 刘书鹏 |  |
 | navigator | 师峰 |  |
 | progress | 郑鑫 |  |
 | radio | 刘书鹏 |  |
+| root-view | 郑鑫 |  |
 | status-bar | 师峰 |  |
 | tab-view | 师峰 |  |
 | tag | 刘书鹏 |  |
+| text-input-view| 师峰 |  |
 | text-view | 刘书鹏 |  |
 
