@@ -22,7 +22,10 @@
 |  | 业务详情 |  |  |  |
 |  | 设备信息 |  |  |  |
 |  | 事件统计 |  |  |  |
-| **告警** |  |  |  |  |
+| **告警** | **郑鑫** |  |  |  |
+|  | 告警列表 |  |  |  |
+|  | 告警删除 |  |  |  |
+|  | 告警详情 |  |  |  |
 | **设置** |  | **师峰** |  |  |
 |  | 公告 |  |  |  |
 |  | 协议测试工具 |  |  |  |
@@ -35,15 +38,15 @@
 ## 技术点
 | 技术点 | 模块 | 备注 |
 | --- | --- | --- |
-| 导航 | react-navigation |  |
-| 背景色渐变 | react-native-linear-gradient |  |
-| 图标 | react-native-vector-icons |  |
+| 导航 | react-navigation | :v: |
+| 背景色渐变 | react-native-linear-gradient | :v: |
+| 图标 | react-native-vector-icons | :v: |
 | 图表 | native-echarts |  |
 | Props验证 | prop-types |  |
 | RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) |  |
-| 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) |  |
-| 摄像头 | [react-native-camera](https://github.com/lwansbrough/react-native-camera) |  |
-| Toast | [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) |  |
+| 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) | :v: |
+| 摄像头 | [react-native-camera](https://github.com/lwansbrough/react-native-camera) | :v: |
+| Toast | [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) | :v: |
 
 ## 组件开发
 | 组件名 | 开发者 | 备注 |
