@@ -35,6 +35,7 @@
 | Props验证 | prop-types |  |
 | RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) |  |
 | 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) |  |
+| 摄像头 | [react-native-camera](https://github.com/lwansbrough/react-native-camera) |  |
 
 ## 组件开发
 | 组件名 | 开发者 | 备注 |
@@ -43,13 +44,16 @@
 | button | 刘书鹏 |  |
 | checkbox | 师峰 |  |
 | flat-list | 师峰 |  |
+| list-item | 师峰 |
 | loading-spinner | 师峰 |  |
 | modals | 刘书鹏 |  |
 | navigator | 师峰 |  |
 | progress | 郑鑫 |  |
+| QRScanner | 师峰 |  |
 | radio | 刘书鹏 |  |
 | root-view | 郑鑫 |  |
 | status-bar | 师峰 |  |
+| switch-box | 师峰 |  |
 | tab-view | 师峰 |  |
 | tag | 刘书鹏 |  |
 | text-input-view| 师峰 |  |
