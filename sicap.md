@@ -11,11 +11,19 @@
 | --- | --- | --- | --- | --- |
 | **登录** |  | **师峰** |  |  |
 | **工作台** |  | **刘书鹏** |  |  |
-|  | 首页 |  |  |  |
+|  | 首页数据 |  |  |  |
 |  | 待处理事件列表 |  |  |  |
-|  | 待处理事件详情页 |  |  |  |
+|  | 待处理事件详情 |  |  |  |
+|  | 待处理事件-处理 |  |  |  |
+|  | 待处理事件-委派 |  |  |  |
 |  | 待处理工单列表 |  |  |  |
 |  | 待处理工单详情页 |  |  |  |
+|  | 二维码扫描 |  |  |  |
+|  | 资产巡检列表 |  |  |  |
+|  | 资产基础信息：常规属性-资产属性-自定义属性 |  |  |  |
+|  | 可用性信息 |  |  |  |
+|  | 维护信息 |  |  |  |
+|  | 安全性信息 |  |  |  |
 | **监控** |  | **金堂** |  |  |
 | **业务** |  | **郑鑫** |  |  |
 |  | 业务卡片展示 |  |  |  |
@@ -41,9 +49,9 @@
 | 导航 | react-navigation | :v: |
 | 背景色渐变 | react-native-linear-gradient | :v: |
 | 图标 | react-native-vector-icons | :v: |
-| 图表 | native-echarts |  |
-| Props验证 | prop-types |  |
-| RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) |  |
+| 图表 | native-echarts | :runner: |
+| Props验证 | prop-types | :runner: |
+| RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) | :runner: |
 | 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) | :v: |
 | 摄像头 | [react-native-camera](https://github.com/lwansbrough/react-native-camera) | :v: |
 | Toast | [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) | :v: |
