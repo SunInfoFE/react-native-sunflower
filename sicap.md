@@ -16,14 +16,21 @@
 |  | 待处理事件详情页 |  |  |  |
 |  | 待处理工单列表 |  |  |  |
 |  | 待处理工单详情页 |  |  |  |
-| **监控** |  | **师峰** |  |  |
+| **监控** |  | **金堂** |  |  |
 | **业务** |  | **郑鑫** |  |  |
 |  | 业务卡片展示 |  |  |  |
 |  | 业务详情 |  |  |  |
 |  | 设备信息 |  |  |  |
 |  | 事件统计 |  |  |  |
 | **告警** |  |  |  |  |
-| **设置** |  |  |  |  |
+| **设置** |  | **师峰** |  |  |
+|  | 公告 |  |  |  |
+|  | 协议测试工具 |  |  |  |
+|  | 修改密码 |  |  |  |
+|  | 消息设置 |  |  |  |
+|  | 联系我们 |  |  |  |
+|  | 关于 |  |  |  |
+|  | 退出登录 |  |  |  |
 
 ## 技术点
 | 技术点 | 模块 | 备注 |
@@ -36,6 +43,7 @@
 | RN应用转WebApp | [react-web](https://github.com/taobaofed/react-web) |  |
 | 轮播 | [react-native-swiper](https://github.com/leecade/react-native-swiper) |  |
 | 摄像头 | [react-native-camera](https://github.com/lwansbrough/react-native-camera) |  |
+| Toast | [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) |  |
 
 ## 组件开发
 | 组件名 | 开发者 | 备注 |
@@ -49,7 +57,7 @@
 | modals | 刘书鹏 |  |
 | navigator | 师峰 |  |
 | progress | 郑鑫 |  |
-| QRScanner | 师峰 |  |
+| qr-scanner | 师峰 |  |
 | radio | 刘书鹏 |  |
 | root-view | 郑鑫 |  |
 | status-bar | 师峰 |  |
